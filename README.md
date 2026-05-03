@@ -50,7 +50,7 @@ Build strong fundamentals first, then move toward real-world ML, GenAI, and depl
 
 ## Connect With Me
 
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/anurag-tripathi-461258194/?skipRedirect=true
 - Portfolio:
 - Email: anuragtripa34@gmail.com
 
