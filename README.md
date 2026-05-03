@@ -33,7 +33,7 @@ Deployment, MLOps basics, portfolio improvement, resume preparation, and intervi
 
 ## Featured Projects
 
-- Python, SQL and Statistics Foundation
+- https://github.com/Anurag0509tripathi/python-sql-statistics-foundation
 - Pandas, NumPy and EDA Projects
 - Machine Learning with sklearn
 - End-to-End ML Project
